@@ -5,19 +5,18 @@ findMyRoomie
   
   Page Description:
   
-  Entry Pages (entrance.php)
-  ===========
-  
+Entry Pages (entrance.php)
+--------------------------------------------------------------------------------------------------
   Log In (Link: entrance.php?entry=login) 
-       The entry page for a user to log into the web, and a new session starts
+    The entry page for a user to log into the web, and a new session starts
   
   Sign Up (Link: entrance.php?entry=register) 
-       The entry page for a user to sign up an account. If registered successfully, log in is automatically.
+    The entry page for a user to sign up an account. If registered successfully, log in is automatically.
   
   Gallery Pages (gallery.php || Log in is required before access)
   
   Account Management (Link: gallery.php?request=account) 
-       Page for a user to update username, password or delete an account
+    Page for a user to update username, password or delete an account
   
   Profile Information (Link: gallery.php?request=profile) 
        Page for a user to update the profile information, such as names, contact, living habits.
