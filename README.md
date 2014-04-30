@@ -7,6 +7,7 @@ findMyRoomie
   
   Entry Pages (entrance.php)
   ===========
+  
   Log In (Link: entrance.php?entry=login) 
        The entry page for a user to log into the web, and a new session starts
   
